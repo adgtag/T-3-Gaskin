@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T-3-Gaskin", "T-3-Gaskin.csproj", "{00D09CBC-34A5-4002-86D0-B7E64C7BF5A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00D09CBC-34A5-4002-86D0-B7E64C7BF5A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00D09CBC-34A5-4002-86D0-B7E64C7BF5A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00D09CBC-34A5-4002-86D0-B7E64C7BF5A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00D09CBC-34A5-4002-86D0-B7E64C7BF5A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A45CDCE-8917-4853-9C84-A8CE1E3405DC}
+	EndGlobalSection
+EndGlobal
